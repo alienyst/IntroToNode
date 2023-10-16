@@ -1,0 +1,37 @@
+{
+  "name": "word-cup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "axios": "^1.5.1",
+    "cli-table": "^0.3.11",
+    "colors": "^1.0.3",
+    "combined-stream": "^1.0.8",
+    "commander": "^11.0.0",
+    "delayed-stream": "^1.0.0",
+    "express": "^4.18.2",
+    "follow-redirects": "^1.15.3",
+    "form-data": "^4.0.0",
+    "mime-db": "^1.52.0",
+    "mime-types": "^2.1.35",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.3.2",
+    "proxy-from-env": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/alienyst/IntroToNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alienyst/IntroToNode/issues"
+  },
+  "homepage": "https://github.com/alienyst/IntroToNode#readme"
+}
